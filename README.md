@@ -4,3 +4,4 @@ This repo is a companion repo to the [Provision an EKS Cluster learn guide](http
 This wil be used to test config and helm repos
 # eks-terraform
 # eks-terraform
+I think we are a go
