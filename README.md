@@ -5,3 +5,4 @@ This wil be used to test config and helm repos
 # eks-terraform
 # eks-terraform
 I think we are a go
+adding more to see where we can go from here.
